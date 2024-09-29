@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampp\htdocs\laravel\Agenda_Virtual\resources\views/components/application-logo.blade.php ENDPATH**/ ?>
